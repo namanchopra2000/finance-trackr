@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/finance-trackr/static/css/main.a730404f.css",
+    "main.js": "/finance-trackr/static/js/main.54ca9180.js",
+    "static/media/transactions. (1).svg": "/finance-trackr/static/media/transactions.004d9f02317991455e50b36d9dae2a26 (1).8c11d75272b3950bdfe72ed01caec7b7.svg",
+    "index.html": "/finance-trackr/index.html",
+    "main.a730404f.css.map": "/finance-trackr/static/css/main.a730404f.css.map",
+    "main.54ca9180.js.map": "/finance-trackr/static/js/main.54ca9180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a730404f.css",
+    "static/js/main.54ca9180.js"
+  ]
+}
